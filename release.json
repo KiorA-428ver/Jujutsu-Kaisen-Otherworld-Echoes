@@ -1,0 +1,19 @@
+{
+  "status": "complete",
+  "jar": "sukunamod-1.0.0.jar",
+  "artifact_kind": "jar",
+  "source": "source.zip",
+  "tested": [
+    "resource guard",
+    "gradle build",
+    "final JAR resource validation"
+  ],
+  "not_tested": [
+    "client launch",
+    "dedicated server",
+    "multiplayer",
+    "in-game gameplay"
+  ],
+  "build": "passed",
+  "game_tested": false
+}
