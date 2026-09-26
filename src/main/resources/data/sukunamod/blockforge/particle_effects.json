@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "effects": [
+    {
+      "id": "domain_shrine_and_boundary",
+      "target": "entity:sukunamod:shrine",
+      "name": "伏魔御厨子神龛与领域边界",
+      "duration": 3600.0,
+      "events": [
+        {
+          "at": 0.0,
+          "particle": "minecraft:enchant",
+          "position": [0, 1, 0],
+          "spread": [1.0, 1.0, 1.0],
+          "speed": 0.2,
+          "count": 32,
+          "shape": "burst",
+          "radius": 1.0,
+          "life": 1.0,
+          "rise": 0.0,
+          "spin": 0.0,
+          "size": 1.0,
+          "repeat": 1,
+          "every": 0.0
+        },
+        {
+          "at": 0.0,
+          "particle": "minecraft:dust",
+          "position": [0, 0.1, 0],
+          "spread": [0.0, 0.0, 0.0],
+          "speed": 0.0,
+          "count": 32,
+          "shape": "ring",
+          "radius": 128.0,
+          "life": 1.0,
+          "rise": 0.0,
+          "spin": 0.0,
+          "size": 0.2,
+          "repeat": 7200,
+          "every": 0.5
+        }
+      ]
+    }
+  ]
+}

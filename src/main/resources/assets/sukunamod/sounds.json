@@ -1,0 +1,17 @@
+{
+  "grid_slash": {
+    "sounds": ["sukunamod:grid_slash"]
+  },
+  "sukuna_slash_1": {
+    "sounds": ["sukunamod:sukuna_slash_1"]
+  },
+  "domain_charge": {
+    "sounds": ["sukunamod:domain_charge"]
+  },
+  "domain_expand": {
+    "sounds": ["sukunamod:domain_expand"]
+  },
+  "world_slash": {
+    "sounds": ["sukunamod:world_slash"]
+  }
+}
